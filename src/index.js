@@ -5,13 +5,15 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Mainstate from './Mainstate';
 import Main from './Main';
+import Parentclass from './Parentclass';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 /* <Mainstate /> */
-<Main />
+/* <Main /> */
+<Parentclass />
 
 
 );
